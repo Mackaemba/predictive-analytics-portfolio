@@ -2,8 +2,11 @@
 Data analytics and machine learning portfolio showcasing predictive modeling projects.
 # Predictive Analytics Portfolio – Daniel Mackaemba
 
-This repository showcases my academic and applied projects in predictive analytics,
-machine learning, and data-driven decision-making using Python.
+### Magazine Subscription Behavior Analysis
+- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+
 
 ## Projects
 
