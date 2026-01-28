@@ -28,5 +28,3 @@ Python, pandas, scikit-learn, SQL, data visualization, machine learning
 ## Contact
 LinkedIn: https://linkedin.com/in/daniel-mackaemba-b957732a5
 Email: mackaembaxs@gmail.com
-
-https://yourusername.github.io/predictive-analytics-portfolio/
