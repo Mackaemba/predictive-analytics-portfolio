@@ -7,7 +7,6 @@ Data analytics and machine learning portfolio showcasing predictive modeling pro
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
-![ROC Curve](magazine-subscription-analysis/visuals/roc_curve.png)
 
 ## Projects
 
