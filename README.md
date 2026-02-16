@@ -19,7 +19,7 @@ git push
 ### 1. Vehicle Fuel Efficiency Prediction
 - Linear regression with Recursive Feature Elimination
 - R² = 0.82, RMSE = 3.4 MPG
-- Focus on engineering and sustainability impact
+- Focus on engineering and sustainability impact.
 
 ### Vehicle Fuel Efficiency Prediction
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
